@@ -143,20 +143,21 @@ public class Demo1 {
 		{int b=scanner.nextInt();
 		d1.insertend(b);
 		}
-//		d1.display();
-		//d1.insertfirst(23);  
-//		d1.display();
-		//d1.insertmid(2,200);
-//		d1.display();
-	//d1.delelast();
-		//d1.delefirst();
+		d1.display();
+		d1.insertfirst(23);  
+		d1.display();
+		d1.insertmid(2,200);
+		d1.display();
+	d1.delelast();
+		d1.delefirst();
 		d1.delemid(2);
-		//d1.insertlast(67);
-		//d1.display();
+		d1.insertlast(67);
+		d1.display();
 		d1.reverse();
-		//d1.display();
+		d1.display();
 		
 
 	}
 
 }
+
